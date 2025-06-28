@@ -11,5 +11,6 @@ The analysis is based on the public dataset `thelook_ecommerce` from Google BigQ
 • Visualization: Creating interactive dashboards with Tableau to tell the story of the data and support business decisions.
 Repository Structure
 ── Presentación-Data-Analyst.pdf
-├── Task 1 folder containing the code, the report and the tableau file
+├── Code for the task
+├── Tableau file
 └── README.md
